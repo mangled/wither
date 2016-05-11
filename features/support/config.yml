@@ -1,0 +1,14 @@
+redmine_site:
+  'http://localhost:3000/'
+
+redmine_key:
+  'here'
+
+parent_project_id:
+  9
+
+sub_project_id:
+  10
+
+max_fetch_size:
+  100
